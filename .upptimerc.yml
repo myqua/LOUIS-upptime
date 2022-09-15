@@ -134,7 +134,7 @@ status-website:
       href: https://louislibraries.org
     - title: GitHub for this Upptime instance.
       href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: light
       
 workflowSchedule:
   graphs: "0 0 * * *"
