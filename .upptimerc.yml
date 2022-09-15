@@ -127,8 +127,8 @@ status-website:
   baseUrl: /LOUIS-upptime
   logoUrl: https://s3.amazonaws.com/libapps/accounts/36809/images/tagline_logo_trans.png
   name: LOUIS Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page for checking LOUIS web applications, such as Enterprise instances.
+  introTitle: "This is a status page for checking LOUIS web applications, such as Enterprise instances."
+  introMessage: Powered by Upptime.
   navbar:
     - title: Status
       href: /
