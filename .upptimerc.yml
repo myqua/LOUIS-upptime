@@ -130,8 +130,8 @@ status-website:
   introTitle: "This is a status page for checking LOUIS web applications, such as Enterprise instances."
   introMessage: Powered by Upptime.
   navbar:
-    - title: Status
-      href: /
+    - title: LOUIS
+      href: https://louislibraries.org
     - title: GitHub for this Upptime instance.
       href: https://github.com/$OWNER/$REPO
   theme: dark
