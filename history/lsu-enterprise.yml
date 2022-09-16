@@ -1,7 +1,7 @@
 url: https://lsu.ent.sirsi.net/client/en_US/lsu/search/results?te=
-status: down
-code: 503
-responseTime: 245
-lastUpdated: 2022-09-16T08:12:29.284Z
+status: up
+code: 200
+responseTime: 3473
+lastUpdated: 2022-09-16T08:40:02.289Z
 startTime: Thu Sep 15 2022 17:04:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
