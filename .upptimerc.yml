@@ -119,7 +119,7 @@ sites:
   __dangerous_body_degraded: "No Results"
 - name: KWYJIBO Test
   url: https://lsuces.ent.sirsi.net/client/en_US/lsuces/search/results?qu=kwyjibo&te=SD_LSUCES
-  __dangerous_body_degraded: "No Results"
+  __dangerous_body_degraded: "No results found"
   
 assignees:
   - myqua
