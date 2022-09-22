@@ -149,10 +149,5 @@ workflowSchedule:
 # Run checks every 20 minutes using cron syntax
   uptime: "*/15 * * * *"
   
-# Notifications
-NOTIFICATION_SLACK: true
-NOTIFICATION_SLACK_WEBHOOK: true
-NOTIFICATION_SLACK_WEBHOOK_URL: $SLACK_WEBHOOK
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
