@@ -118,7 +118,7 @@ sites:
   url: https://xavier.ent.sirsi.net/client/en_US/xavier/search/results?te=
   __dangerous__body_degraded: "No Results"
 - name: KWYJIBO Test
-  url: https://lsuces.ent.sirsi.net/client/en_US/lsuces/search/results?qu=kwyjibo&te=SD_LSUCES
+  url: https://lsuces.ent.sirsi.net/client/en_US/lsuces/search/results?qu=kwyjinnbo&te=SD_LSUCES
   __dangerous__body_degraded: "No results found"
   
 assignees:
