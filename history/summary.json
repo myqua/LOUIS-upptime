@@ -676,10 +676,10 @@
     "url": "https://ull.ent.sirsi.net/client/en_US/ull/search/results?te=",
     "icon": "https://icons.duckduckgo.com/ip3/ull.ent.sirsi.net.ico",
     "slug": "ull-nterprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1992,
@@ -687,7 +687,9 @@
     "timeWeek": 1895,
     "timeMonth": 1936,
     "timeYear": 1992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-26": 1
+    }
   },
   {
     "name": "ULM Enterprise",
