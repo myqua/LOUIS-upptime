@@ -680,18 +680,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ull.ent.sirsi.net.ico",
     "slug": "ull-nterprise",
     "status": "up",
-    "uptime": "94.98%",
+    "uptime": "94.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.34%",
-    "uptimeMonth": "78.68%",
-    "uptimeYear": "94.98%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.53%",
+    "uptimeYear": "94.50%",
     "time": 2276,
     "timeDay": 1883,
-    "timeWeek": 4837,
+    "timeWeek": 2063,
     "timeMonth": 2690,
     "timeYear": 2276,
     "dailyMinutesDown": {
-      "2023-01-23": 189,
+      "2023-01-23": 1132,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -763,15 +763,17 @@
     "slug": "kwyjibo-test",
     "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 244,
     "timeDay": 216,
     "timeWeek": 235,
     "timeMonth": 220,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 4
+    }
   }
 ]
