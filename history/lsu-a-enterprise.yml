@@ -1,7 +1,7 @@
 url: https://lsua.ent.sirsi.net/client/en_US/lsua/search/results?te=
-status: down
-code: 503
-responseTime: 332
-lastUpdated: 2023-01-24T09:07:58.802Z
+status: up
+code: 200
+responseTime: 11906
+lastUpdated: 2023-01-24T09:24:58.781Z
 startTime: Thu Sep 15 2022 17:04:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
