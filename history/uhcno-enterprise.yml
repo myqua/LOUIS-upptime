@@ -1,7 +1,7 @@
 url: https://uhcno.ent.sirsi.net/client/en_US/uhcno/search/results?te=
-status: down
-code: 503
-responseTime: 267
-lastUpdated: 2023-01-24T09:09:03.329Z
+status: up
+code: 200
+responseTime: 10194
+lastUpdated: 2023-01-24T09:27:36.404Z
 startTime: Thu Sep 15 2022 17:04:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
