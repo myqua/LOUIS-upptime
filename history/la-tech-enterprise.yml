@@ -1,7 +1,7 @@
 url: https://latech.ent.sirsi.net/client/en_US/latech/search/results?te=
-status: down
-code: 503
-responseTime: 274
-lastUpdated: 2023-01-24T09:08:25.069Z
+status: up
+code: 200
+responseTime: 2489
+lastUpdated: 2023-01-24T09:26:00.775Z
 startTime: Thu Sep 15 2022 17:04:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
