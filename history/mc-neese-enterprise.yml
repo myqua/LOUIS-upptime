@@ -1,7 +1,7 @@
 url: https://mcneese.ent.sirsi.net/client/en_US/mcneese/search/results?te=
-status: up
-code: 200
-responseTime: 1651
-lastUpdated: 2023-06-06T23:07:31.456Z
+status: down
+code: 503
+responseTime: 268
+lastUpdated: 2023-06-07T14:06:39.596Z
 startTime: Thu Sep 15 2022 17:04:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
