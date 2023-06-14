@@ -1,7 +1,7 @@
 url: https://nsula.ent.sirsi.net/client/en_US/nsula/search/results?te=
-status: up
-code: 200
-responseTime: 837
-lastUpdated: 2023-06-13T23:07:03.614Z
+status: down
+code: 503
+responseTime: 208
+lastUpdated: 2023-06-14T19:32:39.880Z
 startTime: Thu Sep 15 2022 17:04:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
