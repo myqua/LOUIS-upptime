@@ -1,7 +1,7 @@
 url: https://northshore.ent.sirsi.net/client/en_US/northshore/search/results?te=
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2023-07-31T09:08:21.622Z
+status: up
+code: 200
+responseTime: 1236
+lastUpdated: 2023-07-31T09:49:53.638Z
 startTime: Thu Sep 15 2022 17:04:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
