@@ -115,9 +115,6 @@ sites:
 - name: UNO Enterprise
   url: https://uno.ent.sirsi.net/client/en_US/uno/search/results?te=
   __dangerous__body_degraded: "No Results"
-- name: Xavier Enterprise
-  url: https://xavier.ent.sirsi.net/client/en_US/xavier/search/results?te=
-  __dangerous__body_degraded: "No Results"
 - name: KWYJIBO Test
   url: https://lsuces.ent.sirsi.net/client/en_US/lsuces/search/results?qu=kwyjibo&te=SD_LSUCES
   __dangerous__body_degraded: "No results found"
