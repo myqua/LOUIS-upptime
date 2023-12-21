@@ -106,7 +106,7 @@ sites:
 - name: SUSLA Enterprise
   url: https://susla.ent.sirsi.net/client/en_US/susla/search/results?te=
   __dangerous__body_degraded: "No Results"
-- name: ULL nterprise
+- name: ULL Enterprise
   url: https://ull.ent.sirsi.net/client/en_US/ull/search/results?te=
   __dangerous__body_degraded: "No Results"
 - name: ULM Enterprise
