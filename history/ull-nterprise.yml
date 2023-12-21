@@ -1,7 +1,7 @@
 url: https://ull.ent.sirsi.net/client/en_US/ull/search/results?te=
-status: up
-code: 200
-responseTime: 26632
-lastUpdated: 2023-12-21T17:34:23.246Z
+status: down
+code: 500
+responseTime: 14017
+lastUpdated: 2023-12-21T18:34:12.152Z
 startTime: 2022-09-15T17:05:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
