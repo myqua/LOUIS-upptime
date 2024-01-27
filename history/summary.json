@@ -767,10 +767,10 @@
     "url": "https://ull.ent.sirsi.net/client/en_US/ull/search/results?te=",
     "icon": "https://icons.duckduckgo.com/ip3/ull.ent.sirsi.net.ico",
     "slug": "ull-enterprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2823,
@@ -778,7 +778,9 @@
     "timeWeek": 2602,
     "timeMonth": 2569,
     "timeYear": 2823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 1
+    }
   },
   {
     "name": "ULM Enterprise",
@@ -829,7 +831,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lsuces.ent.sirsi.net.ico",
     "slug": "kwyjibo-test",
     "status": "degraded",
-    "uptime": "25.05%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +842,7 @@
     "timeMonth": 368,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-01-27": 62,
+      "2024-01-27": 953,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
