@@ -1,7 +1,7 @@
 url: https://lsuces.ent.sirsi.net/client/en_US/lsuces/search/results?qu=kwyjibo&te=SD_LSUCES
-status: degraded
-code: 200
-responseTime: 193
-lastUpdated: 2024-02-06T23:08:33.588Z
+status: down
+code: 503
+responseTime: 53
+lastUpdated: 2024-02-07T09:08:52.951Z
 startTime: 2022-09-22T17:02:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
