@@ -1,7 +1,7 @@
 url: https://subr.ent.sirsi.net/client/en_US/subr/search/results?te=
-status: up
-code: 200
-responseTime: 1139
-lastUpdated: 2024-02-06T23:08:22.563Z
+status: down
+code: 503
+responseTime: 81
+lastUpdated: 2024-02-07T09:08:48.812Z
 startTime: 2022-09-15T17:05:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
