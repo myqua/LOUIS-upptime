@@ -1,7 +1,7 @@
 url: https://ulm.ent.sirsi.net/client/en_US/ulm/search/results?te=
-status: down
-code: 503
-responseTime: 76
-lastUpdated: 2024-02-07T09:08:51.810Z
+status: up
+code: 200
+responseTime: 2126
+lastUpdated: 2024-02-07T09:49:40.931Z
 startTime: 2022-09-15T17:05:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
