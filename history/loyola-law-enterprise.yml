@@ -1,7 +1,7 @@
 url: https://loynolaw.ent.sirsi.net/client/en_US/loynolaw/search/results?te=
-status: down
-code: 503
-responseTime: 79
-lastUpdated: 2024-02-07T09:08:46.478Z
+status: up
+code: 200
+responseTime: 1471
+lastUpdated: 2024-02-07T09:49:19.903Z
 startTime: 2022-09-15T17:05:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
