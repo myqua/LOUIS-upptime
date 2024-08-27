@@ -1,7 +1,7 @@
 url: https://sulaw.ent.sirsi.net/client/en_US/sulaw/search/results?te=
-status: up
-code: 200
-responseTime: 665
-lastUpdated: 2024-08-26T23:10:43.038Z
+status: down
+code: 503
+responseTime: 88
+lastUpdated: 2024-08-27T06:47:51.752Z
 startTime: 2022-09-15T17:05:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
