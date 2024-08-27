@@ -1,7 +1,7 @@
 url: https://suno.ent.sirsi.net/client/en_US/suno/search/results?te=
-status: down
-code: 503
-responseTime: 111
-lastUpdated: 2024-08-27T06:47:52.321Z
+status: up
+code: 200
+responseTime: 11505
+lastUpdated: 2024-08-27T07:13:08.911Z
 startTime: 2022-09-15T17:05:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
