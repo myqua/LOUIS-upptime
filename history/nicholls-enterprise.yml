@@ -1,7 +1,7 @@
 url: https://nicholls.ent.sirsi.net/client/en_US/nicholls/search/results?te=
-status: down
-code: 503
-responseTime: 323
-lastUpdated: 2024-11-29T08:52:24.541Z
+status: up
+code: 200
+responseTime: 2337
+lastUpdated: 2024-11-29T09:12:15.404Z
 startTime: 2022-09-15T17:04:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
