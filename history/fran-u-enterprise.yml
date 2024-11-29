@@ -1,7 +1,7 @@
 url: https://franu.ent.sirsi.net/client/en_US/franu/search/results?te=
-status: down
-code: 503
-responseTime: 256
-lastUpdated: 2024-11-29T08:52:35.098Z
+status: up
+code: 200
+responseTime: 1604
+lastUpdated: 2024-11-29T09:12:29.973Z
 startTime: 2022-09-15T17:04:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
