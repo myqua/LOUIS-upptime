@@ -1,7 +1,7 @@
 url: https://bpcc.ent.sirsi.net/client/en_US/bpcc/search/results?te=
-status: down
-code: 500
-responseTime: 636
-lastUpdated: 2025-01-24T23:09:07.035Z
+status: up
+code: 200
+responseTime: 1539
+lastUpdated: 2025-01-25T00:43:39.745Z
 startTime: 2022-09-15T16:20:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
