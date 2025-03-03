@@ -1,7 +1,7 @@
 url: https://lsulaw.ent.sirsi.net/client/en_US/lsulaw/search/results?te=
-status: down
-code: 503
-responseTime: 456
-lastUpdated: 2025-03-03T09:12:41.820Z
+status: up
+code: 200
+responseTime: 2477
+lastUpdated: 2025-03-03T09:31:17.449Z
 startTime: 2022-09-15T17:04:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
