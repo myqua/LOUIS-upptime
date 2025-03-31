@@ -1,7 +1,7 @@
 url: https://lsus.ent.sirsi.net/client/en_US/lsus/search/results?te=
-status: down
-code: 503
-responseTime: 110
-lastUpdated: 2025-03-31T07:28:20.063Z
+status: up
+code: 200
+responseTime: 1939
+lastUpdated: 2025-03-31T07:48:07.580Z
 startTime: 2022-09-15T17:04:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
