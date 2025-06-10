@@ -1,7 +1,7 @@
 url: https://delta.ent.sirsi.net/client/en_US/delta/search/results?te=
-status: down
-code: 503
-responseTime: 220
-lastUpdated: 2025-06-10T06:16:32.154Z
+status: up
+code: 200
+responseTime: 8895
+lastUpdated: 2025-06-10T06:48:38.194Z
 startTime: 2022-09-15T17:04:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
