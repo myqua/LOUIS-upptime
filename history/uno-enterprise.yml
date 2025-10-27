@@ -1,7 +1,7 @@
 url: https://uno.ent.sirsi.net/client/en_US/uno/search/results?te=
-status: down
-code: 503
-responseTime: 144
-lastUpdated: 2025-10-27T08:17:27.038Z
+status: up
+code: 200
+responseTime: 1852
+lastUpdated: 2025-10-27T09:15:38.380Z
 startTime: 2022-09-15T17:05:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
