@@ -1,7 +1,7 @@
 url: https://centenary.ent.sirsi.net/client/en_US/centenary/search/results?te=
-status: down
-code: 503
-responseTime: 142
-lastUpdated: 2025-10-27T08:16:44.110Z
+status: up
+code: 200
+responseTime: 20296
+lastUpdated: 2025-10-27T08:48:01.522Z
 startTime: 2022-09-15T17:04:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
