@@ -1,7 +1,7 @@
 url: https://nunez.ent.sirsi.net/client/en_US/nunez/search/results?te=
-status: up
-code: 200
-responseTime: 1150
-lastUpdated: 2025-10-26T23:11:09.418Z
+status: down
+code: 503
+responseTime: 137
+lastUpdated: 2025-10-27T08:16:57.283Z
 startTime: 2022-09-15T17:04:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
