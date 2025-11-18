@@ -1,7 +1,7 @@
 url: https://susla.ent.sirsi.net/client/en_US/susla/search/results?te=
-status: down
-code: 500
-responseTime: 37
-lastUpdated: 2025-11-18T11:48:15.157Z
+status: up
+code: 200
+responseTime: 2696
+lastUpdated: 2025-11-18T14:36:36.659Z
 startTime: 2022-09-15T17:05:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
