@@ -1,7 +1,7 @@
 url: https://cltcc.ent.sirsi.net/client/en_US/cltcc/search/results?te=
-status: up
-code: 200
-responseTime: 878
-lastUpdated: 2025-11-18T14:36:23.045Z
+status: down
+code: 500
+responseTime: 69
+lastUpdated: 2025-11-18T15:13:22.041Z
 startTime: 2022-09-15T17:04:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
