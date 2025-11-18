@@ -1,7 +1,7 @@
 url: https://lsua.ent.sirsi.net/client/en_US/lsua/search/results?te=
-status: down
-code: 500
-responseTime: 144
-lastUpdated: 2025-11-18T13:05:36.142Z
+status: up
+code: 200
+responseTime: 4971
+lastUpdated: 2025-11-18T14:34:59.731Z
 startTime: 2022-09-15T17:04:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
