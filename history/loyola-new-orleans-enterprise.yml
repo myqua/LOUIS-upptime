@@ -1,7 +1,7 @@
 url: https://loyno.ent.sirsi.net/client/en_US/loyola/search/results?te=
-status: up
-code: 200
-responseTime: 4045
-lastUpdated: 2025-11-18T12:24:12.322Z
+status: down
+code: 500
+responseTime: 75
+lastUpdated: 2025-11-18T13:05:40.677Z
 startTime: 2022-09-15T17:04:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
