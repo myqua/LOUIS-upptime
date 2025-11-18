@@ -1,7 +1,7 @@
 url: https://lsuces.ent.sirsi.net/client/en_US/lsuces/search/results?te=
-status: down
-code: 500
-responseTime: 75
-lastUpdated: 2025-11-18T11:37:54.130Z
+status: up
+code: 200
+responseTime: 2443
+lastUpdated: 2025-11-18T14:52:16.201Z
 startTime: 2022-09-15T17:04:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
