@@ -1,7 +1,7 @@
 url: https://slu.ent.sirsi.net/client/en_US/slu/search/results?te=
-status: down
-code: 500
-responseTime: 43
-lastUpdated: 2025-11-18T11:48:05.340Z
+status: up
+code: 200
+responseTime: 1638
+lastUpdated: 2025-11-18T14:53:14.751Z
 startTime: 2022-09-15T17:05:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
