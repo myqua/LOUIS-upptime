@@ -1,7 +1,7 @@
 url: https://lumcon.ent.sirsi.net/client/en_US/lumcon/search/results?te=
-status: down
-code: 503
-responseTime: 228
-lastUpdated: 2026-02-09T08:38:41.553Z
+status: up
+code: 200
+responseTime: 638
+lastUpdated: 2026-02-09T09:41:23.882Z
 startTime: 2022-09-15T17:04:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
