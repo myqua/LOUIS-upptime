@@ -1,7 +1,7 @@
 url: https://fletcher.ent.sirsi.net/client/en_US/fletcher/search/results?te=
-status: down
-code: 503
-responseTime: 253
-lastUpdated: 2026-02-09T08:38:10.565Z
+status: up
+code: 200
+responseTime: 647
+lastUpdated: 2026-02-09T09:40:40.587Z
 startTime: 2022-09-15T17:04:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
