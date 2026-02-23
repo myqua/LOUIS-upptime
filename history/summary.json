@@ -946,7 +946,7 @@
     "url": "https://lsuces.ent.sirsi.net/client/en_US/lsuces/search/results?qu=kwyjibo&te=SD_LSUCES",
     "icon": "https://icons.duckduckgo.com/ip3/lsuces.ent.sirsi.net.ico",
     "slug": "kwyjibo-test",
-    "status": "degraded",
+    "status": "down",
     "uptime": "9.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -958,7 +958,7 @@
     "timeMonth": 644,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2026-02-23": 149,
+      "2026-02-23": 721,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
