@@ -1,7 +1,7 @@
 url: https://sowela.ent.sirsi.net/client/en_US/sowela/search/results?te=
-status: down
-code: 403
-responseTime: 148
-lastUpdated: 2026-08-17T18:29:21.070Z
+status: up
+code: 200
+responseTime: 1000
+lastUpdated: 2026-08-17T19:06:42.161Z
 startTime: 2022-09-15T17:05:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
