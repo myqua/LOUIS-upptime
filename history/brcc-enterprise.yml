@@ -1,7 +1,7 @@
 url: https://brcc.ent.sirsi.net/client/en_US/brcc/search/results?te=
-status: down
-code: 403
-responseTime: 226
-lastUpdated: 2026-08-19T17:46:50.220Z
+status: up
+code: 200
+responseTime: 2297
+lastUpdated: 2026-08-19T18:18:26.462Z
 startTime: 2022-09-15T16:20:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
